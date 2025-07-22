@@ -1,4 +1,3 @@
-🚀 Trust Laundry
 Trust Laundry is a full-featured mobile application designed for modern laundry service business. Built with Flutter and Firebase, it offers an elegant, fast, and user-friendly experience for both customers and administrators.
 
 🌟 Key Features
